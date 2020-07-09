@@ -1,2 +1,2 @@
-# RProject
-Repositorio de pruebas de scripts en R
+# Scripts
+Repositorio de pruebas de scripts
